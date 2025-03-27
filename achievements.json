@@ -1,0 +1,32 @@
+{
+    "A1": {
+        "title": "Первый пак!",
+        "description": "Вы скачали свой первый пак",
+        "remote_unlock": false
+    },
+    "A2": {
+        "title": "Шутник",
+        "description": "Вы ввели XXX-XXX-XXX",
+        "remote_unlock": false
+    },
+    "A3": {
+        "title": "Смена декораций",
+        "description": "Вы переключили фон на конвертерный",
+        "remote_unlock": false
+    },
+    "A4": {
+        "title": "Ручная работа",
+        "description": "Вы вручную добавили пак",
+        "remote_unlock": false
+    },
+    "A5": {
+        "title": "Подписчик",
+        "description": "Вы подписались на издателя",
+        "remote_unlock": false
+    },
+    "A6": {
+        "title": "Любознательный",
+        "description": "Вы узнали о версии программы",
+        "remote_unlock": false
+    }
+}
